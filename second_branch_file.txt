@@ -1,2 +1,1 @@
-first branch text
 text from second branch
